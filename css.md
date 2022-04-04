@@ -97,7 +97,7 @@ font-size: 40px;
 font-family: "Times New Roman", Times, serif;
 
 /*To change the font width */
-font-weigth: 5;
+font-weight: 5;
 ```
 
 ### Sizes
